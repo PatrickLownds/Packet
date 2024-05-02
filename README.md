@@ -1,2 +1,2 @@
 # Packet
-Packet deployment files
+Packet deployment templates
